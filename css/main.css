@@ -2,3 +2,6 @@ body {
     background: lightgoldenrodyellow;
     color: darkslategrey;
 }
+h1 {
+    border-bottom: dashed 3px black;
+}
