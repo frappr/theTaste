@@ -8,3 +8,14 @@ h1 {
 p {
     color: brown;
 }
+footer {
+    background: white;
+    position: fixed;
+    bottom: 0;
+    border-top: 2px solid saddlebrown;
+    margin: 0;
+    width: 100%;
+}
+footer li {
+    list-style: none;
+}
