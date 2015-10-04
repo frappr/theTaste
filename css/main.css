@@ -3,7 +3,8 @@ body {
     color: darkslategrey;
 }
 h1 {
-    border-bottom: dashed 3px black;
+    border-bottom: solid 8px yellowgreen;
+    width: 50%;
 }
 p {
     color: brown;
