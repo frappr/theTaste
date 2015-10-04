@@ -2,6 +2,9 @@ body {
     background: lightgoldenrodyellow;
     color: darkslategrey;
 }
+header {
+    background: snow;
+}
 h1 {
     border-bottom: solid 8px yellowgreen;
     width: 50%;
